@@ -18,10 +18,10 @@ object Config {
     val versionName = "0.0.1"
 
     @JvmStatic
-    val appName = "AndroidAppTemplate"
+    val appName = "ZotCalCounter"
 
     @JvmStatic
-    val applicationId = "com.tailoredapps.androidapptemplate"
+    val applicationId = "uci.cs125.zotcalcounter"
 
     @JvmStatic
     val archiveName = "$appName-v$versionName-b$versionCode"
